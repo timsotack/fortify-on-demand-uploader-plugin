@@ -32,9 +32,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:jenkinsci/fortify-on-demand-uploader-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jenkinsci/fortify-on-demand-uploader-plugin.git</developerConnection>
-        <url>https://github.com/jenkinsci/fortify-on-demand-uploader-plugin</url>
+        <connection>scm:git:git@github.com:timsotack/fortify-on-demand-uploader-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:timsotack/fortify-on-demand-uploader-plugin.git</developerConnection>
+        <url>https://github.com/timsotack/fortify-on-demand-uploader-plugin</url>
         <tag>fortify-on-demand-uploader-3.0.9</tag>
     </scm>
 
